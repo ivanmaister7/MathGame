@@ -32,6 +32,7 @@ public class MathGame extends JFrame{
 	ImageIcon iconR = new ImageIcon("images/redButton.png");
 	ImageIcon iconG = new ImageIcon("images/greenButton.png");
 	ImageIcon iconW = new ImageIcon("images/whiteButton.png");
+	ImageIcon iconW1 = new ImageIcon("images/ahuetRABOTAET.png");
 	
 	public double diapason = 2*Math.PI;
     public int dotNum = (int) (diapason/Math.PI*1000);
